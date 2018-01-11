@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "D:\\1147050056\\Mobile Programing\\Project\\Tugas\\DroidCafeWithSettings\\app\\src\\main\\res\\xml\\pref_general.xml"
+    }
+]
